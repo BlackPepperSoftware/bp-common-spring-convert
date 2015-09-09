@@ -28,7 +28,7 @@
 	<artifactId>bp-common-spring-convert</artifactId>
 	<version>1.1.0-SNAPSHOT</version>
 
-	<name>Black Pepper Common Driver</name>
+	<name>Black Pepper Common Spring Convert</name>
 	<description>Library that provides various Spring converters.</description>
 	<url>https://github.com/BlackPepperSoftware/bp-common-spring-convert</url>
 	<inceptionYear>2014</inceptionYear>
